@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan_With_Friends/static/css/main.529f93ac.css",
+    "main.js": "/Plan_With_Friends/static/js/main.1f66a102.js",
+    "index.html": "/Plan_With_Friends/index.html",
+    "main.529f93ac.css.map": "/Plan_With_Friends/static/css/main.529f93ac.css.map",
+    "main.1f66a102.js.map": "/Plan_With_Friends/static/js/main.1f66a102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.529f93ac.css",
+    "static/js/main.1f66a102.js"
+  ]
+}
